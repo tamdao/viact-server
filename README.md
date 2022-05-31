@@ -32,6 +32,8 @@
 $ npm install
 ```
 
+You need to create a database and set the `DATABASE_URL` at the `.env` file
+
 ## Running the app
 
 ```bash
